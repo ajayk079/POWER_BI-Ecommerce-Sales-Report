@@ -1,9 +1,9 @@
 # POWER BI E-commerce Sales Report
 ## Problem Statement
-##  The owner of the sales store wants us to help them create a dashboard using power bi to track and analyze their online sales across India. A user-friendly interface will enable seamless interaction, promoting data-driven decisions. 
+##  The owner of the sales store wants us to help them create a dashboard using Power BI to track and analyze their online sales across India. A user-friendly interface will enable seamless interaction, promoting data-driven decisions. 
 Here we have two datasets: Detail bi.csv and Orders bi.csv
 
-# Key Points: ----------
+# Key Points: ---------
 
 ## 	Created an interactive dashboard to keep track and analyze online sales data.
 ## 	It allows one to explore the data in detail and customize it with filters and slicers. 
